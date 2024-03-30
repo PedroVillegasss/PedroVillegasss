@@ -14,7 +14,7 @@ I'm a 22-year-old Computer Science student based in Santiago, Chile.
 - **Bachelor's degree in Civil Engineering - Universidad de los Andes (2020-2020)**
 
 ## Contact
-- Send an email to ppvillegas@miuandes.cl or DM me on [**LinkedIn**](https://www.linkedin.com/in/pedro-pablo-villegas-celis-360589299/).
+- Send an email to **ppvillegas@miuandes.cl** or DM me on [**LinkedIn**](https://www.linkedin.com/in/pedro-pablo-villegas-celis-360589299/).
 
 ## Skills
 <p align="center">
