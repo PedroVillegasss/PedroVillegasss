@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Pedro.
 
-<!--
-**PedroVillegasss/PedroVillegasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'am a 22-year-old Computer Science student based in Santiago, Chile.
 
-Here are some ideas to get you started:
+## Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Banchile Inversiones (dec. 2023 - feb. 2024):** Software development in the CX team.
+
+**Universidad de los Andes (dec. 2022 - feb. 2023):** Support in updating the school students's database.
+
+## Education
+
+**Bachelor's degree in Civil Engineering - Universidad de los Andes (2020-2020)**
+**Major's degree in Computer Science - Universidad de los Andes (2021-2026)**
+
+## Contact
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/pedro-pablo-villegas-celis-360589299/)
