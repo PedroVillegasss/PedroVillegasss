@@ -19,6 +19,6 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/pedro-pabl
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,sql,html,css,ruby" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,postgres,ruby,bootstrap" />
   </a>
 </p>
