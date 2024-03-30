@@ -5,7 +5,6 @@ I'm a 22-year-old Computer Science student based in Santiago, Chile.
 ## Experience
 
 - **Banchile Inversiones (dec. 2023 - feb. 2024):** Software development in the CX team.
-
 - **Universidad de los Andes (dec. 2022 - feb. 2023):** Support in updating the school students's database.
 
 ## Education
