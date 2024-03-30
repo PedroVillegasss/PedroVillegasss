@@ -18,7 +18,7 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/pedro-pabl
 
 ## Skills
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/PedroVillegasss">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,postgres,ruby,bootstrap" />
   </a>
 </p>
