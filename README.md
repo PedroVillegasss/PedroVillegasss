@@ -15,3 +15,10 @@ I'm a 22-year-old Computer Science student based in Santiago, Chile.
 
 ## Contact
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/pedro-pablo-villegas-celis-360589299/)
+
+## Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,kubernetes,docker,c,vim" />
+  </a>
+</p>
