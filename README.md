@@ -1,6 +1,6 @@
 ### Hi, I'm Pedro.
 
-I'am a 22-year-old Computer Science student based in Santiago, Chile.
+I'm a 22-year-old Computer Science student based in Santiago, Chile.
 
 ## Experience
 
