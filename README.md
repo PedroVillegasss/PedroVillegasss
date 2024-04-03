@@ -18,6 +18,6 @@ I'm a 22-year-old Computer Science student based in Santiago, Chile.
 ## Skills
 <p align="center">
   <a href="https://github.com/PedroVillegasss">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,postgres,ruby,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,postgres,ruby,bootstrap,rails" />
   </a>
 </p>
