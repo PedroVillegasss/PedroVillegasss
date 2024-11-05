@@ -1,14 +1,10 @@
-### Hi, I'm Pedro.
-
-I'm a 22-year-old Computer Science student based in Santiago, Chile.
-
 ## Experience
 
-- **Internship at Banchile Inversiones (dec. 2023 - feb. 2024):** Software development in the CX team.
+- **Software Automation Intern - Banchile Inversiones (dec. 2023 - feb. 2024):** Software development in the CX team.
 
 ## Education
 
-- **Major's degree in Computer Science - Universidad de los Andes (2021-2026)**.
+- **Computer Science Engineering - Universidad de los Andes (2021-2026)**.
 - **Pre-Engineering Program - Universidad de los Andes (2020-2020)**.
 
 ## Contact
